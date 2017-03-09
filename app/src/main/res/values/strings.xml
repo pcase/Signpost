@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SignPost</string>
+    <string name="title_activity_map_fragment">MapFragmentActivity</string>
+</resources>
